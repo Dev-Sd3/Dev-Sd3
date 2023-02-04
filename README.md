@@ -1,16 +1,31 @@
-### Hi there 👋
+<div align="center">
+<img src="https://media2.giphy.com/media/eFvs5iE6a6ntVIRaEN/giphy.gif?cid=790b76118333c553f16253b39eba2301f6e86d26f7ad47b5&rid=giphy.gif" width=900>
+</div>
 
-<!--
-**Dev-Sd3/Dev-Sd3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! I am a 20-year-old computer science student with a passion for AI, machine learning, and data science .
+
+My ultimate goal is to automate mundane and tiring tasks, freeing up time for people to pursue their passions and live a more fulfilling life, and making our day-to-day routines more manageable. 
+
+Also into hardware and building computers that go brrr
+
+
+### Languages (Beep beep boop) 
+
+* C / C++
+* Java 
+* Python 
+    - Data science 
+    - Machine Learning (In progress)
+
+
+### Languages (Not for Computers)
+
+
+* English 
+* Arabic
+* French
+
+
