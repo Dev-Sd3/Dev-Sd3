@@ -5,7 +5,7 @@
 # Welcome!
 
 
-Hello! I am a 20-year-old computer science student with a passion for AI, machine learning, and data science .
+Hello! I am a 21-year-old computer science student with a passion for AI, machine learning, and data science .
 
 My ultimate goal is to automate mundane and tiring tasks, freeing up time for people to pursue their passions and live a more fulfilling life, and making our day-to-day routines more manageable. 
 
