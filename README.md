@@ -5,9 +5,9 @@
 # Welcome!
 
 
-Hello! I am a 21-year-old computer science student with a passion for AI, machine learning, and data science .
+Hello! I am a 22-year-old computer science graduate with a strong interest in data engineering and software development. 
 
-My ultimate goal is to automate mundane and tiring tasks, freeing up time for people to pursue their passions and live a more fulfilling life, and making our day-to-day routines more manageable. 
+I enjoy working on projects that combine practical problem-solving with data insights using different tools. 
 
 Also into hardware and building computers that go brrr
 
@@ -17,8 +17,6 @@ Also into hardware and building computers that go brrr
 * C / C++
 * Java 
 * Python 
-    - Data science 
-    - Machine Learning (In progress)
 
 
 ### Languages (Not for Computers)
